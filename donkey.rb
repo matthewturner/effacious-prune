@@ -1,6 +1,6 @@
-require_relative 'toy'
+require_relative 'teddy'
 
-class Donkey < Toy
+class Donkey < Teddy
   def name
     'Donkey'
   end

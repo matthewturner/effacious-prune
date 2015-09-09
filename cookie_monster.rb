@@ -1,6 +1,6 @@
-require_relative 'toy'
+require_relative 'teddy'
 
-class CookieMonster < Toy
+class CookieMonster < Teddy
   def name
     'Cookie Monster'
   end

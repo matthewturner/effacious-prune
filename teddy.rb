@@ -1,4 +1,4 @@
-class Toy
+class Teddy
   def ears
     2
   end
